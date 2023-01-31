@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice_routers/static/css/main.7acaea2f.css",
+    "main.js": "/practice_routers/static/js/main.92a68dc2.js",
+    "index.html": "/practice_routers/index.html",
+    "main.7acaea2f.css.map": "/practice_routers/static/css/main.7acaea2f.css.map",
+    "main.92a68dc2.js.map": "/practice_routers/static/js/main.92a68dc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.92a68dc2.js"
+  ]
+}
